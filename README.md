@@ -1,5 +1,7 @@
 # Como rodar o projeto
-- Baixar o arquivo no git.hub
+- Abrir o repositorio no git.hub
+- Clicar em code
+- Download ZIP
 - Descompactar o arquivo.zip
 - Executar o arquivo index.html no navegador
 
